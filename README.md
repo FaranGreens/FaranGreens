@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img width="45%" height="auto" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/></a>
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Faran</h1>
+<h1 align="center">Hi<img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="35px">, I'm Md Faran</h1>
 <h3 align="center">I'm an aspiring Fullstack Developer from India.</h3>
  
  
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Fullstack Development**
  
  
-- 👨‍💻 All of my projects are available at <a href="https://github.com/FaranGreens?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Faran" height="30" width="40" style="max-width: 100%;"></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/FaranGreens?tab=repositories"><img align="center" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="Faran" height="30px" style="max-width: 100%;"></a>
  
  
 - 📫 How to reach me **faranmd1@gmail.com**
@@ -27,8 +27,8 @@
     <a style="padding-right:8px;" href="https://html.com/" target="_blank"> <img width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img height="60px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img height="60px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/></a> 
- <a href="https://reactjs.org/" target="_blank"> <img height="60px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></a>
-    <a style="padding-right:8px;" href="https://nodejs.org/en/" target="_blank"><img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img height="60px" width="60px" src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"/></a>
+    <a style="padding-right:8px;" href="https://nodejs.org/en/" target="_blank"><img height="60px" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"/> </a>
     <a style="padding-right:8px;" href="https://getbootstrap.com/" target="_blank"> <img height="60px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/></a>
     <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img height="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/></a>
     <a style="padding-right:8px;" href="[https://www.google.com/sheets/about/](https://www.typescriptlang.org/)" target="_blank"> <img height="60px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"/></a>
@@ -82,6 +82,6 @@
 ## Connect with me:
 <p align="left">
  
-<a href = "https://www.linkedin.com/in/mdfaran/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Faran_Md"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/faran_m1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/mdfaran/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="60px"/></a>
+<a href = "https://twitter.com/Faran_Md"><img src="https://media.tenor.com/jDOgugYCEywAAAAM/twitter-logo.gif" height="58px"/></a>
+<a href = "https://www.instagram.com/faran_m1/"><img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="60px"/></a>
