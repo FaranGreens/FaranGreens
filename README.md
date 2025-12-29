@@ -1,5 +1,5 @@
 <h1 align="center">Md Faran</h1>
-<h3 align="center">Senior-leaning Full-Stack JavaScript Engineer | MERN | Next.js | Scalable Web Systems</h3>
+<h3 align="center">Full-Stack JavaScript Engineer | MERN | Next.js | Scalable Web Systems</h3>
 
 ---
 
