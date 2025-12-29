@@ -58,14 +58,6 @@ Currently focused on strengthening **system design, performance optimization, an
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaranGreens&show_icons=true&count_private=true&hide_border=true" />
-</p>
-
----
-
 ## Contact
 
 * Email: **[faranmd1@gmail.com](mailto:faranmd1@gmail.com)**
