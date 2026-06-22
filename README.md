@@ -5,7 +5,7 @@
 
 ## Summary
 
-Full-stack JavaScript developer with **2+ years of professional experience** building, maintaining, and scaling production web applications. Strong background in **React, Next.js, Node.js, and MongoDB**, with hands-on experience designing APIs, CMS-driven platforms, and performance-sensitive features. Known for a pragmatic engineering mindset, clean abstractions, and ownership-driven execution.
+Full-stack JavaScript developer with **3+ years of professional experience** building, maintaining, and scaling production web applications. Strong background in **React, Next.js, Node.js, and MongoDB**, with hands-on experience designing APIs, CMS-driven platforms, and performance-sensitive features. Known for a pragmatic engineering mindset, clean abstractions, and ownership-driven execution.
 
 Currently focused on strengthening **system design, performance optimization, and architectural decision-making** to operate effectively at a senior engineer level.
 
